@@ -1,14 +1,13 @@
 # Project Name - Computer Spare Parts Management System
 
-# Batch - Malabe_WD.IT.02.2
-### Group Leader - IT21279966 - Gunawardana S.D.L. (IT21279966)
-### Member 2 - IT21289798 - Gunawardhana D.H.M.G. (IT21289798)
-### Member 3 - IT21290060 - Hemashi T.G.B. (IT21290060)
-### Member 4 - IT21285042 - Ranasinghe R.C.C. (IT21285042)
-### Member 5 - IT21288562 - Padukka Y.S. (IT21288562)
-### Member 6 - IT21282836 - Mallawaarachchi T.D.R. (IT21282836)
-### Member 7 - IT21280160 - Theekshana K.T. (IT21280160)
-### Member 8 - IT21245060 - Weerakoon H.P.S.P. (IT21245060)
+### Group Leader - Gunawardana S.D.L.
+### Member 2 - Gunawardhana D.H.M.G.
+### Member 3 - Hemashi T.G.B.
+### Member 4 - Ranasinghe R.C.C.
+### Member 5 - Padukka Y.S.
+### Member 6 - Mallawaarachchi T.D.R.
+### Member 7 - Theekshana K.T.
+### Member 8 - Weerakoon H.P.S.P.
 
 #### Brief Description of Project - The purpose of this web application is to implement and automate the management tasks of a company which sells and repairs computer spare parts. Main problem faced by the company is it is not possible to record all the data and information manually in a practical environment.
 
